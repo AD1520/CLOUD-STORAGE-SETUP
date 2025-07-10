@@ -19,3 +19,6 @@ I have successfully created and configured cloud storage using Amazon S3 as part
 
 # OUTPUT
 <img width="1919" height="821" alt="Image" src="https://github.com/user-attachments/assets/94c2fdf8-7cd1-4e7d-b97f-8b24e82dfe16" />
+
+
+<img width="1919" height="831" alt="Image" src="https://github.com/user-attachments/assets/50c7d7a5-956f-4be9-b378-f2d851b225bf" />
